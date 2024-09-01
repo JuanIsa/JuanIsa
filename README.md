@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 &nbsp;Sobre mi:
 
 - 🤔 &nbsp; Aprendiendo constantemente nuevas tecnologías de programación.
-- 🎓 &nbsp; Estudié 5 años Ingeniería Informática, fue ahí en la universdad donde forjé las bases de todos los conocimientos de programación.
+- 🎓 &nbsp; Estudié 4 años Ingeniería Informática, fue ahí en la universdad donde forjé las bases de todos los conocimientos de programación.
 - 💼 &nbsp; Actualmente sin trabajo. En búsqueda de mi primera oportunidad en el mundo IT.
 - 🌱 &nbsp; Deseo poder demostrar un profesionalismo  y responsabilidad para poder crecer como desarrollador.
 
